@@ -1,1 +1,1 @@
-# Standard_Calc.github.io
+# Standard_Calc.io
